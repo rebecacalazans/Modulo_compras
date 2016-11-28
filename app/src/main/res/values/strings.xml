@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ModuloCompra</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_mercado">Selecionar Mercado</string>
+    <string name="title_activity_lista">Lista</string>
+    <string name="title_activity_pagamento">Pagamento</string>
+    <string name="title_activity_produto">produto</string>
+    <string name="title_activity_qtd_produto">qtdProduto</string>
+</resources>

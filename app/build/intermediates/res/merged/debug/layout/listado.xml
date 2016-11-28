@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal" >
+
+<TextView
+    android:id="@+id/textView_esquerda"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:textSize="16sp"
+    android:text="Nome"
+    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+<TextView
+    android:id="@+id/textView_centro"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:textSize="16sp"
+    android:text="qtd"
+    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+<TextView
+    android:id="@+id/textView_direita"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:textSize="16sp"
+    android:text="Valor total"
+    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Larissa/ModuloCompra/app/src/main/res/layout/listado.xml -->

@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:7:22-71
+application
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:9:5-39:19
+	android:label
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:12:9-38
+	android:allowBackup
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:13:9-40
+activity#larissa.modulocompra.telainicial
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:15:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:20:27-74
+activity#larissa.modulocompra.selectMercado
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:24:13-42
+activity#larissa.modulocompra.lista
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:29:13-57
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:28:13-34
+activity#larissa.modulocompra.pagamento
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:32:13-38
+activity#larissa.modulocompra.qtdProduto
+ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml:36:13-39
+uses-sdk
+INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Larissa\ModuloCompra\app\src\main\AndroidManifest.xml
